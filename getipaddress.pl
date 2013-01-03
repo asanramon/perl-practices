@@ -21,4 +21,6 @@ foreach my $addr (@addrs) {
 }
 foreach my $ip (@ipaddrs) { print $ip, "\n"; }
 
+print "Program done. Exiting...";
+
 exit;
